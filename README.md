@@ -5,7 +5,9 @@ I'm stll studying Computer engineering but I've been working on differents proje
 ### What have I done something about
 - Angular 9+
 - Ionic and capacitor
+- Firebase
 - Java
+- Very little NodeJS
 - Some low level C++
 - Some low level Python
 
