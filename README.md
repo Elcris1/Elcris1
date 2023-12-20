@@ -7,7 +7,7 @@ I'm stll studying Computer engineering but I've been working on differents proje
 - Ionic and capacitor
 - Firebase
 - Java
-- Very little NodeJS
+- A little bit of NodeJS
 - Some low level C++
 - Some low level Python
 
