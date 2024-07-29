@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Eloi and I am from Spain although I am able to speak fluent english.
-I'm stll studying Computer engineering but I've been working on differents projects mainly focused on HTML, SCSS, Typescript, Angular and Ionic. 
+I'm stll studying Computer Science and I've been working on differents projects mainly focused on HTML, SCSS, Typescript, Angular and Ionic. 
 
 ### What have I done something about
 - Angular 9+
