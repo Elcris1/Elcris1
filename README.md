@@ -1,15 +1,14 @@
 ### Hi there 👋
-My name is Eloi and I am from Spain although I am able to speak fluent english.
-I'm stll studying Computer Science and I've been working on differents projects mainly focused on HTML, SCSS, Typescript, Angular and Ionic. 
+My name is Eloi, I'm a Computer Science student and I work part-time. Because of my job, I've been involved in projects with Angular, Ionic, Node.JS, Firebase, MySQL, NoSQL, Python and Modbus. I'm native Spansih with the ability to speak fluent English.
 
 ### What have I done something about
 - Angular 9+
 - Ionic and capacitor
 - Firebase
 - Java
-- A little bit of NodeJS
-- Some low level C++
-- Some low level Python
+- Node JS
+- Python
+- MySQL
 
 <!--
 **Elcris1/Elcris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
