@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Eloi, I'm a Computer Science student and I work part-time. Because of my job, I've been involved in projects with Angular, Ionic, Node.JS, Firebase, MySQL, NoSQL, Python and Modbus. I'm native Spansih with the ability to speak fluent English.
+My name is Eloi, I'm a Computer Science student and I work part-time. Because of my job, I've been involved in projects with Angular, Ionic, Node.JS, Firebase, MySQL, NoSQL, Python and Modbus. I'm native Spanish with the ability to speak fluent English.
 
 ### What have I done something about
 - Angular 9+
