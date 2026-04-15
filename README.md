@@ -2,11 +2,11 @@
 My name is Eloi, I'm a Computer Engineering student finishing the degree at the end of the 2025/26 course from Spain. 
 Planning to study the Master in Computer Ingeering at UdL EPS from September 2026.
 
-I have been working in projects since I was 16 at the job I had at that moment. Since then I  have been working as a software developer and studying at the same time. I have also done my intership as a software developer during the Computer Engineering degree at UdL EPS.
+I have been working in projects since I was 16, age where I started working as a developer. Later on my tasks at the job I had at the moment increased and started working as a software developer while studying at the same time. In 2025 I had the opportunity to do an intership as a Full-Stack Developer at Hiberus as part of the Computer Engineering degree at UdL EPS.
 
-I also had the oportunnity to study abroad during the first semester of the fourth year at Fontys University of Applied Sciences throught the Erasmus + programme, in which I had to fully communicate in English with students, professors and clients. 
+When I finished my intership I was able to study abroad during the first semester of the fourth year of university at Fontys University of Applied Sciences through the Erasmus + programme, in which I had to fully communicate in English with students, professors and clients. 
 
-Because of all my experiences during my job, intership and college Ive worked on the following things. 
+Because of all my experiences during my job, intership and college I have worked on the following things. 
 ### What have I been involved with (Individually, college or workwise)
 - Angular 15+
 - Ionic and capacitor
