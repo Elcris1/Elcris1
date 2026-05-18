@@ -18,8 +18,9 @@ I'm a Computer Engineering student finishing my degree at the end of the 2025/26
 **Key Highlights:**
 - 🔧 **Full-Stack Development** – Built production apps with Angular, Node.js, and Java/SpringBoot
 - 🌍 **International Experience** – Studied abroad at Fontys University (Netherlands) via Erasmus+, fully communicating in English
-- 💼 **Professional Internship** – Full-Stack Developer at Hiberus (2025)
 - 🚀 **Goal** – Transition from developer to architect/system designer, eventually moving into technical leadership
+
+</div>
 
 ---
 
@@ -45,42 +46,14 @@ I'm a Computer Engineering student finishing my degree at the end of the 2025/26
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Eloi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elcris1&show_icons=true&theme=radical&hide_border=true)
+## 📊 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcris1&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing new opportunities, projects, or just tech in general. Feel free to reach out!
-
-- **LinkedIn:** [eloi-cristofol-pardo](https://www.linkedin.com/in/eloi-cristofol-pardo/)
-- **Email:** eloi.cristofol@gmail.com
+![Contributions](https://ghchart.rshah.org/Elcris1)
 
 ---
 
 ⭐ *Thanks for visiting my profile!* ⭐
 
 </div>
-
-<!--
-**Elcris1/Elcris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
