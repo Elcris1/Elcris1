@@ -20,13 +20,11 @@ I'm a Computer Engineering student finishing my degree at the end of the 2025/26
 - 🌍 **International Experience** – Studied abroad at Fontys University (Netherlands) via Erasmus+, fully communicating in English
 - 🚀 **Goal** – Transition from developer to architect/system designer, eventually moving into technical leadership
 
-</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -39,7 +37,7 @@ I'm a Computer Engineering student finishing my degree at the end of the 2025/26
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ⭐
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Database & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
